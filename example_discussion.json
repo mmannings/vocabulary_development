@@ -689,18 +689,18 @@
       {
         "id": "eqdicdlc0",
         "author": "System ADMIN",
-        "content": "@mark mentioning new json-field",
+        "content": "@ mentioning new json-field",
         "timestamp": "2025-04-23T16:09:53.590Z"
       },
       {
         "id": "yg73sa1fw",
         "author": "System ADMIN",
-        "content": "@mark Take a look at the second comment under the same term.",
+        "content": "@ Take a look at the second comment under the same term.",
         "timestamp": "2025-05-15T09:41:17.630Z"
       }
     ],
     "mentionedUsers": [
-      mark
+      "mark"
     ]
   },
   {
