@@ -190,14 +190,6 @@
     rdfs:seeAlso "N/A";
     ex:status "draft";
     dcterms:created "2024-08-01"^^xsd:date.
-<https://example.com#e73367f5-3971-4e94-8f95-6ce4aff94578> rdf:type rdfs:Resource;
-    dcterms:identifier "e73367f5-3971-4e94-8f95-6ce4aff94578";
-    rdfs:label "Fab";
-    skos:altLabel "Fabrication";
-    dcterms:description "The name of the fab producing the product. Production Area";
-    rdfs:seeAlso "url:https://terminology.tib.eu/ts/ontologies/dr/terms?iri=http%3A%2F%2Fwww.w3id.org%2Fecsel-dr-GDM%23Fab";
-    ex:status "draft";
-    dcterms:created "2024-08-01"^^xsd:date.
 <https://example.com#527c5858-7259-4ede-804a-5c89fc8c6467> rdf:type rdfs:Resource;
     dcterms:identifier "527c5858-7259-4ede-804a-5c89fc8c6467";
     rdfs:label "Dicing";
