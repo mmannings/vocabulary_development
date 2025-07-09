@@ -1255,7 +1255,8 @@
 <https://example.com#6df5621a-76e8-4563-b5d3-00de28d74228> rdf:type rdfs:Resource;
     dcterms:identifier "6df5621a-76e8-4563-b5d3-00de28d74228";
     rdfs:label "aatest";
-    dcterms:description "atest";
+    dcterms:description "atesta";
     rdfs:seeAlso "atest";
     ex:status "draft";
-    dcterms:created "2025-07-07"^^xsd:date.
+    dcterms:created "2025-07-07"^^xsd:date;
+    dcterms:modified "2025-07-09T11:12:53.673Z"^^xsd:dateTime.
