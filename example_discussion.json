@@ -1202,6 +1202,13 @@
   },
   {
     "resourceId": "6df5621a-76e8-4563-b5d3-00de28d74228",
-    "comments": []
+    "comments": [
+      {
+        "id": "mqpda5pf5",
+        "author": "System ADMIN",
+        "content": "new comment",
+        "timestamp": "2025-07-10T13:45:45.103Z"
+      }
+    ]
   }
 ]
