@@ -1254,6 +1254,13 @@
   },
   {
     "resourceId": "30b2ea37-d4bd-4546-ad5f-b5c54a3d00e4",
-    "comments": []
+    "comments": [
+      {
+        "id": "m7ixrghnc",
+        "author": "System ADMIN",
+        "content": "new comment to term with iso",
+        "timestamp": "2025-07-15T14:39:12.830Z"
+      }
+    ]
   }
 ]
