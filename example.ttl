@@ -1260,3 +1260,11 @@
     ex:status "draft";
     dcterms:created "2025-07-07"^^xsd:date;
     dcterms:modified "2025-07-10T13:45:16.806Z"^^xsd:dateTime.
+<https://example.com#30b2ea37-d4bd-4546-ad5f-b5c54a3d00e4> rdf:type rdfs:Resource;
+    dcterms:identifier "30b2ea37-d4bd-4546-ad5f-b5c54a3d00e4";
+    rdfs:label "anewterm";
+    dcterms:description "new term with iso";
+    rdfs:seeAlso "new term with iso";
+    ex:status "draft";
+    dcterms:created "2025-07-15"^^xsd:date;
+    dcterms:modified "2025-07-15T14:36:53.405Z"^^xsd:dateTime.
